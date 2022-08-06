@@ -1,6 +1,5 @@
 - Aceita um café? ☕
 - 👋 Olá! eu sou a Giovana Tavares.
-- 🌱 Estou aprendendo Java☕
 
 
 </div>
